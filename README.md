@@ -2,7 +2,7 @@
 
 Numerical experiments for the manuscript by **Mathieu Laurière and Andrew Shi (2026)**. The paper develops and illustrates a hybrid strategy that uses inexpensive Picard iterations before handing the solution to Newton continuation. Studying the component solvers identifies when combining them is useful and when one method should be favored.
 
-[Earlier preprint on arXiv](https://arxiv.org/abs/2609.11050) · Contact: [andrewshi@math.berkeley.edu](mailto:andrewshi@math.berkeley.edu)
+Contact: [andrewshi@math.berkeley.edu](mailto:andrewshi@math.berkeley.edu)
 
 ## Organization of the experiments
 
