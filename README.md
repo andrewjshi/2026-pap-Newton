@@ -1,7 +1,5 @@
 # Picard-Based Acceleration of Newton Continuation for Mean Field Game PDE Systems
 
-Numerical experiments for the manuscript by **Mathieu Laurière and Andrew Shi (2026)**.
-
 Contact: [andrewshi@math.berkeley.edu](mailto:andrewshi@math.berkeley.edu)
 
 ## Figure and table mappings
