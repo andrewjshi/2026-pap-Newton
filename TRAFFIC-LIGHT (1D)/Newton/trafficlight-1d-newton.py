@@ -38,7 +38,7 @@ NEWTON_TOL = 1e-9        # Convergence tolerance for the monolithic residual
 # --- Continuation Parameters ---
 NU_START = 0.2           # Starting viscosity
 NU_TARGET = 0.001        # Target viscosity
-TAU = 0.5                # Reduction factor for viscosity step
+TAU = 0.05               # Aggressive reduction; retain backtracking on failure
 GAMMA = 0.5              # Backtracking factor
 CONT_TOL = 1e-4          # Minimum allowable step size
 
